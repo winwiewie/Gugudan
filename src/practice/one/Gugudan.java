@@ -1,3 +1,4 @@
+package practice.one;
 
 public class Gugudan {
 	public static void main(String[] args) {
@@ -12,6 +13,9 @@ public class Gugudan {
 		System.out.println(2 * 7);
 		System.out.println(2 * 8);
 		System.out.println(2 * 9);
+		
+		//줄바꿈
+		System.out.println();
 		
 		// 3단
 		System.out.println("3단");
